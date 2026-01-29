@@ -1,0 +1,54 @@
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.exe
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.deps.json
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.runtimeconfig.json
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.dll
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.pdb
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.CalculateCabinets.resources
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.MainForm.resources
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.Order.resources
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.csproj.GenerateResource.cache
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.AssemblyInfoInputs.cache
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.AssemblyInfo.cs
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.csproj.CoreCompileInputs.cache
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.dll
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\refint\KitchenFurniture.dll
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.pdb
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.genruntimeconfig.cache
+C:\Users\Petrov\source\repos\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\ref\KitchenFurniture.dll
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.exe
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.deps.json
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.runtimeconfig.json
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.dll
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.pdb
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.CalculateCabinets.resources
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.MainForm.resources
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.Order.resources
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.csproj.GenerateResource.cache
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.AssemblyInfoInputs.cache
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.AssemblyInfo.cs
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.csproj.CoreCompileInputs.cache
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.dll
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\refint\KitchenFurniture.dll
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.pdb
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.genruntimeconfig.cache
+C:\Users\Petrov\Desktop\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\ref\KitchenFurniture.dll
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.exe
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.deps.json
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.runtimeconfig.json
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.dll
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\bin\Debug\net8.0-windows\KitchenFurniture.pdb
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.CalculateCabinets.resources
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.MainForm.resources
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.Order.resources
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.csproj.GenerateResource.cache
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.AssemblyInfoInputs.cache
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.AssemblyInfo.cs
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.csproj.CoreCompileInputs.cache
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.dll
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\refint\KitchenFurniture.dll
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.pdb
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\KitchenFurniture.genruntimeconfig.cache
+Z:\Аккредитация\ЗАДАНИЯ\ПМ.01\Вариант 3\KitchenFurniture\KitchenFurniture\KitchenFurniture\obj\Debug\net8.0-windows\ref\KitchenFurniture.dll

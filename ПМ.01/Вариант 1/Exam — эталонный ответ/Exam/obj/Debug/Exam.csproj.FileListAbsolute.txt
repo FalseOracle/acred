@@ -1,0 +1,30 @@
+C:\Users\Tina\OneDrive\Рабочий стол\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\Tina\OneDrive\Рабочий стол\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\Tina\OneDrive\Рабочий стол\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\Tina\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\Tina\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\Tina\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\Tina\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Tina\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\Tina\OneDrive\Рабочий стол\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Petrov\Desktop\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\Petrov\Desktop\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\Petrov\Desktop\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\Petrov\Desktop\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\Petrov\Desktop\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\Petrov\Desktop\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\Petrov\Desktop\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Petrov\Desktop\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\Petrov\Desktop\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Petrov\Desktop\Exam\Exam\obj\Debug\Exam.MainForm.resources
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\bin\Debug\Exam.exe.config
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\bin\Debug\Exam.exe
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\bin\Debug\Exam.pdb
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\obj\Debug\Exam.exe.config
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\obj\Debug\Exam.MainForm.resources
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\obj\Debug\Exam.exe
+C:\Users\judgment\Desktop\Desktop\_ЗАДАНИЯ\ПМ.01\Вариант 1\Exam — эталонный ответ\Exam\obj\Debug\Exam.pdb

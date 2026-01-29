@@ -1,0 +1,36 @@
+!БЫЛО!
+
+for (int i = 0; i < count; i+3) {
+    if (headphones[i].getType() == maxType) {
+        headphones[i].display();
+    }
+}
+
+
+!СТАЛО!
+
+for (int i = 0; i < count; i++) {
+    if (headphones[i].getType() == maxType) {
+        headphones[i].display();
+    }
+}
+
+
+
+!БЫЛО! 2
+
+for (int i = 3; i < 6; i++) {
+    headphonesArray[i].display();
+}
+
+!СТАЛО! 2
+
+for (int i = 0; i < 6; i++) {
+    headphonesArray[i].display();
+}
+
+!БЫЛО! 3
+} while (choice != 5);
+
+!СТАЛО! 3
+} while (choice != 2);

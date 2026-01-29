@@ -1,0 +1,141 @@
+#include <iostream>
+#include <cmath>
+#include <string>
+#include <iomanip>
+
+using namespace std;
+
+class Headphones {
+private:
+    string brand;
+    string model;
+    string type;  // "внутриканальные", "накладные", "полноразмерные"
+    double frequencyRange;  // частотный диапазон в Гц
+    double price;
+
+public:
+    // Конструктор
+    Headphones(string b = "Unknown", string m = "Unknown",
+        string t = "Unknown", double fr = 20.0, double p = 0.0)
+        : brand(b), model(m), type(t), frequencyRange(fr), price(p) {}
+
+    // Функции доступа
+    string getBrand() const { return brand; }
+    string getModel() const { return model; }
+    string getType() const { return type; }
+    double getFrequencyRange() const { return frequencyRange; }
+    double getPrice() const { return price; }
+
+    void setBrand(string b) { brand = b; }
+    void setModel(string m) { model = m; }
+    void setType(string t) { type = t; }
+    void setFrequencyRange(double fr) { frequencyRange = fr; }
+    void setPrice(double p) { price = p; }
+
+    // Вывод информации
+    void display() const {
+        cout << left << setw(15) << brand
+            << setw(15) << model
+            << setw(20) << type
+            << setw(10) << frequencyRange << " Гц"
+            << setw(10) << price << " руб." << endl;
+    }
+};
+
+// Функция для нахождения типа с максимальным частотным диапазоном
+void findMaxFrequencyRangeType(Headphones* headphones, int count) {
+    double maxRange = 0;
+    string maxType = "";
+
+    // Проходим по всем наушникам
+    for (int i = 0; i < count; i++) {
+        if (headphones[i].getFrequencyRange() > maxRange) {
+            maxRange = headphones[i].getFrequencyRange();
+            maxType = headphones[i].getType();
+        }
+    }
+
+    cout << "\n=== Результат анализа ===" << endl;
+    cout << "Тип наушников с максимальным частотным диапазоном: " << maxType << endl;
+    cout << "Частотный диапазон: " << maxRange << " Гц" << endl;
+
+    // Выводим все наушники этого типа
+    cout << "\nНаушники типа '" << maxType << "':" << endl;
+    cout << left << setw(15) << "Бренд"
+        << setw(15) << "Модель"
+        << setw(20) << "Тип"
+        << setw(10) << "Диапазон"
+        << setw(10) << "Цена" << endl;
+    cout << string(70, '-') << endl;
+
+    for (int i = 0; i < count; i++) {
+        if (headphones[i].getType() == maxType) {
+            headphones[i].display();
+        }
+    }
+}
+
+int main()
+{
+    setlocale(LC_ALL, "Russian");
+
+    int choice;
+
+    do {
+        cout << "\n МЕНЮ" << endl;
+        cout << "1. Анализ наушников" << endl;
+        cout << "2. Выход" << endl;
+        cout << "Выберите действие: ";
+        cin >> choice;
+
+        switch (choice) {
+        case 1: {
+
+            cout << "\n Анализ наушников " << endl;
+
+            // Создаем массив из 6 объектов класса Headphones
+            Headphones* headphonesArray = new Headphones[6];
+
+            // Заполняем массив данными
+            headphonesArray[0] = Headphones("Sony", "WH-1000XM4", "полноразмерные", 40000, 29990);
+            headphonesArray[1] = Headphones("Samsung", "Galaxy Buds Pro", "внутриканальные", 20000, 15990);
+            headphonesArray[2] = Headphones("Audio-Technica", "ATH-M50x", "накладные", 35000, 14990);
+            headphonesArray[3] = Headphones("Apple", "AirPods Pro", "внутриканальные", 22000, 22990);
+            headphonesArray[4] = Headphones("Beyerdynamic", "DT 990 Pro", "полноразмерные", 45000, 18990);
+            headphonesArray[5] = Headphones("Sennheiser", "HD 450BT", "накладные", 30000, 12990);
+
+            // Выводим таблицу с данными
+            cout << "\nСписок наушников:" << endl;
+            cout << left << setw(15) << "Бренд"
+                << setw(15) << "Модель"
+                << setw(20) << "Тип"
+                << setw(10) << "Диапазон"
+                << setw(10) << "Цена" << endl;
+            cout << string(70, '-') << endl;
+
+            for (int i = 0; i < 6; i++) {
+                headphonesArray[i].display();
+            }
+
+            // Находим тип с максимальным частотным диапазоном
+            findMaxFrequencyRangeType(headphonesArray, 6);
+
+            // Освобождаем память
+            delete[] headphonesArray;
+
+            break;
+        }
+
+        case 2:
+            cout << "Выход из программы..." << endl;
+            break;
+
+        default:
+            cout << "Неверный выбор! Попробуйте снова." << endl;
+        }
+
+    } while (choice != 2);
+
+    return 0;
+}
+
