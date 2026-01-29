@@ -1,0 +1,60 @@
+using System;
+using System.Drawing;
+using System.Windows.Forms;
+using СolourConverter;
+
+namespace СolourConverter
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void buttonConvert_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrWhiteSpace(textBoxColor.Text))
+            {
+                labelMessage.Text = "Введите название цвета!";
+                labelMessage.ForeColor = Color.Red;
+                return;
+            }
+
+            string colorName = textBoxColor.Text.Trim();
+
+            Color c = Color.FromName(colorName); // берём цвет по имени [web:63]
+
+            // Если имя не распознано, Color будет "пустой" (A=0, IsKnownColor=false)
+            if (!c.IsKnownColor)
+            {
+                labelMessage.Text = "Неизвестный цвет. Пример: Red, Blue, Green.";
+                labelMessage.ForeColor = Color.Red;
+                return;
+            }
+
+            labelColorName.Text = colorName;
+            labelMessage.Text = "Цвет успешно преобразован!";
+            labelMessage.ForeColor = Color.Green;
+
+            // Показ цвета (если добавишь panelPreview на форму)
+            panelPreview.BackColor = c;
+        }
+
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+            textBoxColor.Text = "";
+            labelColorName.Text = "";
+            labelMessage.Text = "";
+            panelPreview.BackColor = SystemColors.Control;
+        }
+
+        private void buttonAbout_Click(object sender, EventArgs e)
+        {
+            using (AboutForm about = new AboutForm())
+            {
+                about.ShowDialog(this);
+            }
+        }
+    }
+}

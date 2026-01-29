@@ -1,0 +1,21 @@
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\bin\Debug\PerfMeterWinForms.exe.config
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\bin\Debug\PerfMeterWinForms.exe
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\bin\Debug\PerfMeterWinForms.pdb
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.csproj.AssemblyReference.cache
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.Properties.Resources.resources
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.csproj.GenerateResource.cache
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.csproj.CoreCompileInputs.cache
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.exe
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.pdb
+C:\Users\myartmaa\source\repos\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.Form1.resources
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\bin\Debug\PerfMeterWinForms.exe.config
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\bin\Debug\PerfMeterWinForms.exe
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\bin\Debug\PerfMeterWinForms.pdb
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.csproj.AssemblyReference.cache
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.exe.config
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.Form1.resources
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.Properties.Resources.resources
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.csproj.GenerateResource.cache
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.csproj.CoreCompileInputs.cache
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.exe
+D:\АККРЕДИТАЦИЯ\15_01_2026\ПМ.04\Вариант 2\PerfMeterWinForms\PerfMeterWinForms\obj\Debug\PerfMeterWinForms.pdb
